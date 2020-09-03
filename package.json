@@ -1,0 +1,11 @@
+{
+    "name": "aselect",
+    "description": "A select form element",
+    "main": "src/aselect.js",
+    "author": {"email": "etienne@artnum.ch", "name": "Etienne Bagnoud"},
+    "license": "MIT",
+    "repository": {"type": "git", "url": "https://github.com/artnum/aselect"},
+    "dependencies": { 
+        "@popperjs/core": "^2.4.4" 
+    }
+}
