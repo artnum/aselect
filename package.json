@@ -1,5 +1,6 @@
 {
     "name": "aselect",
+    "version": "0.1",
     "description": "A select form element",
     "main": "src/aselect.js",
     "author": {"email": "etienne@artnum.ch", "name": "Etienne Bagnoud"},
